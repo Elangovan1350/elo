@@ -21,7 +21,7 @@ function App() {
           <SyncLoader color="#36d7b7" />
 
         </div>)
-        :(<h1>home page</h1>)
+        :(<h1>home page kkkkkk</h1>)
       }
      
     </div>
